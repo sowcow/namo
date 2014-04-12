@@ -17,7 +17,7 @@
 
 
 
-Namo tassa bhagavato arahato sammā′sambuddhassa [3x]
+Namo tassa bhagavato arahato sammāsambuddhassa [3x]
 
 Почтение`ему` совершенному, достойному, в совершенстве `самостоятельно`пробудившемуся
 
@@ -67,7 +67,7 @@ Saṅghaṃ saraṇaṃ gacchāmi
 
 
 
-...
+Aṭṭhasila ...
 
 ...
 
