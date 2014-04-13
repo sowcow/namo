@@ -30,11 +30,11 @@ html
         //$c: mix($c, white, $y)
         //background-color: $c
 
-        //$te: mix(silver, teal)
         //background-color: #333
         //color: #bbb
-        //a
-        //  color: $te
+        $te: mix(silver, teal, 25%)
+        a
+          color: $te
 
 
         //background-color: #666666
