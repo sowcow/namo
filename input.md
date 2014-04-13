@@ -15,12 +15,11 @@
 
 ## Выражение почтения
 
-|## NAMASKĀRA
 
 
 Namo tassa bhagavato arahato sammāsambuddhassa [3x]
 
-Почтение`ему` совершенному, достойному, в совершенстве `самостоятельно`пробудившемуся
+Почтение совершенному, достойному, в совершенстве пробудившемуся
 
 | Namo      | Почтение
 | tassa     | ему
@@ -28,7 +27,7 @@ Namo tassa bhagavato arahato sammāsambuddhassa [3x]
 | arahato   | достойному
 | sammā     | в совершенстве
 | [sam]budd | самостоятельно
-| buddhasa  | пробудившемуся
+| buddhassa | пробудившемуся
 
 
 
@@ -36,7 +35,6 @@ Namo tassa bhagavato arahato sammāsambuddhassa [3x]
 
 ## Принятие прибежища
 
-|## SARAṆA′GAMANA′PĀṬHA
 
 
 Buddhaṃ saraṇaṃ gacchāmi
@@ -69,7 +67,7 @@ Saṅghaṃ saraṇaṃ gacchāmi
 
 
 
-Aṭṭhasila ...
+...
 
 ...
 
