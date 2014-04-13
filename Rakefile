@@ -1,4 +1,5 @@
 require 'slim'
+require 'sass'
 require 'kramdown'
  
 Slim::Engine.set_default_options pretty: true
@@ -8,6 +9,59 @@ doctype 5
 html
   head
     meta charset='utf-8'
+
+    / stuff
+    sass:
+      h2
+        color: silver
+      td, h1
+        text-align: center
+      td:first-child
+        font-size: 150%
+     
+    / theme
+    sass:
+      html
+        //$c: #9c9
+        //$x: 50%
+        //$y: 100% - $x
+        //$y: 90%
+        //$c: mix(orange, gray, $x)
+        //$c: mix($c, white, $y)
+        //background-color: $c
+
+        //$te: mix(silver, teal)
+        //background-color: #333
+        //color: #bbb
+        //a
+        //  color: $te
+
+
+        //background-color: #666666
+        //background-color: #c63
+        //-webkit-background-clip: text
+        //-moz-background-clip: text
+        //background-clip: text
+        //color: transparent
+        //text-shadow: rgba(255,255,255,0.5) 0px 3px 3px
+
+    / basic look
+    sass:
+      *
+        font-family: monospace
+        //font-family: sans-serif
+      td
+        padding: 5px 10px
+        p
+          margin: 0
+          padding: 0
+      table
+        $b: solid 1px mix(teal, silver)
+        border-top: $b
+        border-bottom: $b
+        padding-bottom: 16.185px
+        /* text specific... */
+
   body
     == self
 slim

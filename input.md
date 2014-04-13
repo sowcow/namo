@@ -11,10 +11,11 @@
 
 ~~~
 
-## NAMASKĀRA
+## Namaskāra
 
 ## Выражение почтения
 
+|## NAMASKĀRA
 
 
 Namo tassa bhagavato arahato sammāsambuddhassa [3x]
@@ -31,10 +32,11 @@ Namo tassa bhagavato arahato sammāsambuddhassa [3x]
 
 
 
-## SARAṆA′GAMANA′PĀṬHA
+## Saraṇagamanapāṭha
 
 ## Принятие прибежища
 
+|## SARAṆA′GAMANA′PĀṬHA
 
 
 Buddhaṃ saraṇaṃ gacchāmi
